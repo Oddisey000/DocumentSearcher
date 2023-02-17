@@ -1,0 +1,6 @@
+C:\SharpDevelop\SharpDevelop Projects\DocumentSearcher\DocumentSearcher\obj\Debug\DocumentSearcher.csprojResolveAssemblyReference.cache
+C:\SharpDevelop\SharpDevelop Projects\DocumentSearcher\DocumentSearcher\bin\Debug\DocumentSearcher.exe
+C:\SharpDevelop\SharpDevelop Projects\DocumentSearcher\DocumentSearcher\bin\Debug\DocumentSearcher.pdb
+C:\SharpDevelop\SharpDevelop Projects\DocumentSearcher\DocumentSearcher\obj\Debug\DocumentSearcher.exe
+C:\SharpDevelop\SharpDevelop Projects\DocumentSearcher\DocumentSearcher\obj\Debug\DocumentSearcher.pdb
+C:\SharpDevelop\SharpDevelop Projects\DocumentSearcher\DocumentSearcher\bin\Debug\DocumentFormat.OpenXml.dll
